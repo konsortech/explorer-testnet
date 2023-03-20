@@ -1,0 +1,15 @@
+{
+    "chain_name": "HYPERSIGN",
+    "api": ["https://testnet-hypersign-api.konsortech.xyz/"],
+    "rpc": ["https://testnet-hypersign-rpc.konsortech.xyz/"],
+    "coin_type": "118",
+    "min_tx_fee": "250000",
+    "addr_prefix": "hid",
+    "logo": "/logos/hypersign.png",
+    "assets": [{
+        "base": "uhid",
+        "symbol": "HID",
+        "exponent": "6",
+        "logo": "/logos/hypersign.png"
+    }]
+}

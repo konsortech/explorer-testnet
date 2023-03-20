@@ -1,0 +1,15 @@
+{
+    "chain_name": "LOYAL",
+    "api": ["https://testnet-loyal-api.konsortech.xyz"],
+    "rpc": ["https://testnet-loyal-rpc.konsortech.xyz"],
+    "coin_type": "118",
+    "min_tx_fee": "200",
+    "addr_prefix": "lyl",
+    "logo": "/logos/loyal.png",
+    "assets": [{
+        "base": "ulyl",
+        "symbol": "LYL",
+        "exponent": "6",
+        "logo": "/logos/loyal.png"
+    }]
+}

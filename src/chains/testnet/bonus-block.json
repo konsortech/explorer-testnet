@@ -1,0 +1,15 @@
+{
+    "chain_name": "BONUS-BLOCK",
+    "api": ["https://testnet-bonusblock-api.konsortech.xyz"],
+    "rpc": ["https://testnet-bonusblock-rpc.konsortech.xyz"],
+    "coin_type": 118,
+    "min_tx_fee": 200,
+    "addr_prefix": "bonus",
+    "logo": "/logos/bonus-block.jpg",
+    "assets": [{
+        "base": "ubonus",
+        "symbol": "BONUS",
+        "exponent": 6,
+        "logo": "/logos/bonus-block.jpg"
+    }]
+}

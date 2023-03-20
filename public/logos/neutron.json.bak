@@ -1,0 +1,15 @@
+{
+    "chain_name": "NEUTRON",
+    "api": ["https://testnet-neutron-api.konsortech.xyz"],
+    "rpc": ["https://testnet-neutron-rpc.konsortech.xyz"],
+    "coin_type": "118",
+    "min_tx_fee": "200",
+    "addr_prefix": "ntrn",
+    "logo": "/logos/neutron.png",
+    "assets": [{
+        "base": "untrn",
+        "symbol": "NTRN",
+        "exponent": "6",
+        "logo": "/logos/neutron.png"
+    }]
+}

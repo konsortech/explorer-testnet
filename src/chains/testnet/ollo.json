@@ -1,0 +1,15 @@
+{
+    "chain_name": "OLLO",
+    "api": ["https://testnet-ollo-api.konsortech.xyz"],
+    "rpc": ["https://testnet-ollo-rpc.konsortech.xyz"],
+    "coin_type": "118",
+    "min_tx_fee": "200",
+    "addr_prefix": "ollo",
+    "logo": "/logos/ollo.png",
+    "assets": [{
+        "base": "utollo",
+        "symbol": "TOLLO",
+        "exponent": "6",
+        "logo": "/logos/ollo.png"
+    }]
+}

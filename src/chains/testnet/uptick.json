@@ -1,0 +1,15 @@
+{
+    "chain_name": "UPTICK",
+    "api": ["https://testnet-uptick-api.konsortech.xyz"],
+    "rpc": ["https://testnet-uptick-rpc.konsortech.xyz"],
+    "coin_type": "60",
+    "min_tx_fee": "200",
+    "addr_prefix": "uptick",
+    "logo": "/logos/uptick.png",
+    "assets": [{
+        "base": "auptick",
+        "symbol": "UPTICK",
+        "exponent": "18",
+        "logo": "/logos/uptick.png"
+    }]
+}

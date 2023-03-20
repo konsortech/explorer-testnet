@@ -1,0 +1,15 @@
+{
+    "chain_name": "MUN",
+    "api": ["https://testnet-mun-api.konsortech.xyz"],
+    "rpc": ["https://testnet-mun-rpc.konsortech.xyz"],
+    "coin_type": "118",
+    "min_tx_fee": "200",
+    "addr_prefix": "mun",
+    "logo": "/logos/mun.png",
+    "assets": [{
+        "base": "utmun",
+        "symbol": "TMUN",
+        "exponent": "6",
+        "logo": "/logos/mun.png"
+    }]
+}

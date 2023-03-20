@@ -1,0 +1,15 @@
+{
+    "chain_name": "ANDROMEDA",
+    "api": ["https://testnet-andromeda-api.konsortech.xyz"],
+    "rpc": ["https://testnet-andromeda-rpc.konsortech.xyz"],
+    "coin_type": 118,
+    "min_tx_fee": 200,
+    "addr_prefix": "andr",
+    "logo": "/logos/andromeda.jpg",
+    "assets": [{
+        "base": "uandr",
+        "symbol": "ANDR",
+        "exponent": 6,
+        "logo": "/logos/andromeda.png"
+    }]
+}

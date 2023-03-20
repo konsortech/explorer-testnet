@@ -1,0 +1,15 @@
+{
+    "chain_name": "NIBIRU",
+    "api": ["https://testnet-nibiru-api.konsortech.xyz"],
+    "rpc": ["https://testnet-nibiru-rpc.konsortech.xyz"],
+    "coin_type": "118",
+    "min_tx_fee": "200",
+    "addr_prefix": "nibi",
+    "logo": "/logos/nibiru.png",
+    "assets": [{
+        "base": "unibi",
+        "symbol": "NIBI",
+        "exponent": "6",
+        "logo": "/logos/nibiru.png"
+    }]
+}

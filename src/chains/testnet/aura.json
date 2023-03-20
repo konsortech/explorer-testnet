@@ -1,0 +1,15 @@
+{
+    "chain_name": "AURA-TESTNET",
+    "api": ["https://testnet-aura-api.konsortech.xyz"],
+    "rpc": ["https://testnet-aura-rpc.konsortech.xyz"],
+    "coin_type": 118,
+    "min_tx_fee": 200,
+    "addr_prefix": "aura",
+    "logo": "/logos/aura.png",
+    "assets": [{
+        "base": "ueaura",
+        "symbol": "AURA",
+        "exponent": 6,
+        "logo": "/logos/aura.png"
+    }]
+}

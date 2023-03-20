@@ -1,0 +1,17 @@
+{
+    "chain_name": "Coreum",
+    "coingecko": "coreum",
+    "api": ["https://coreum.api.konsortech.xyz/"],
+    "rpc": ["https://coreum.rpc.konsortech.xyz/"],
+    "coin_type": "118",
+    "min_tx_fee": "10000",
+    "addr_prefix": "testcore",
+    "logo": "/logos/coreum.png",
+    "assets": [{
+        "base": "utestcore",
+        "symbol": "TESTCORE",
+        "exponent": "6",
+        "coingecko_id": "coreum",
+        "logo": "/logos/coreum.png"
+    }]
+}
