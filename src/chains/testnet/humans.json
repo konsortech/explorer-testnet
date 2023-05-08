@@ -2,15 +2,16 @@
     "chain_name": "HUMANS",
     "api": ["https://testnet-humans-api.konsortech.xyz/"],
     "rpc": ["https://testnet-humans-rpc.konsortech.xyz/"],
+    "sdk_version": "0.46.11",
     "coin_type": "118",
     "min_tx_fee": "200",
-    "addr_prefix": "heart",
+    "addr_prefix": "humans",
     "logo": "/logos/humans.png",
     "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
     "assets": [{
-        "base": "uheart",
+        "base": "aheart",
         "symbol": "HEART",
-        "exponent": "6",
+        "exponent": "18",
         "logo": "/logos/humans.png"
     }]
 }
