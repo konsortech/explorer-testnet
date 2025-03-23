@@ -1,0 +1,18 @@
+{
+    "chain_name": "COMPOSABLE-3",
+    "coingecko": "picasso",
+    "api": ["https://testnet-composable3-api.konsortech.xyz/","https://api-t.banksy.nodestake.top"],
+    "rpc": ["https://testnet-composable3-rpc.konsortech.xyz/"],
+    "sdk_version": "v0.47.1",
+    "coin_type": "118",
+    "min_tx_fee": "200000",
+    "addr_prefix": "banksy",
+    "logo": "/logos/composable.png",
+    "assets": [{
+        "base": "ppica",
+        "symbol": "PICA",
+        "exponent": "6",
+        "coingecko_id": "picasso",
+        "logo": "/logos/composable.png"
+    }]
+}

@@ -53,7 +53,7 @@ function processMenu() {
   })
   chainMenus.push({
     title: 'Telegram',
-    href: 'https://t.me/ilhamnurizha',
+    href: 'https://t.me/konsortechxyz',
     icon: 'SendIcon',
   })
   return chainMenus

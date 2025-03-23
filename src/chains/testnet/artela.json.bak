@@ -1,0 +1,16 @@
+{
+    "chain_name": "ARTELA",
+    "api": ["https://testnet-artela-api.konsortech.xyz"],
+    "rpc": ["https://testnet-artela-rpc.konsortech.xyz"],
+    "sdk_version": "0.47.4",
+    "coin_type": "60",
+    "min_tx_fee": "200",
+    "addr_prefix": "artela",
+    "logo": "/logos/artela.jpg",
+    "assets": [{
+        "base": "uart",
+        "symbol": "ART",
+        "exponent": "18",
+        "logo": "/logos/artela.jpg"
+    }]
+}

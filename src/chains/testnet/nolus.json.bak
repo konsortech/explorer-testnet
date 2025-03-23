@@ -1,0 +1,15 @@
+{
+    "chain_name": "NOLUS",
+    "api": ["https://testnet-nolus-api.konsortech.xyz/"],
+    "rpc": ["https://testnet-nolus-rpc.konsortech.xyz/"],
+    "coin_type": "118",
+    "min_tx_fee": "200",
+    "addr_prefix": "NOLUS",
+    "logo": "/logos/nolus.jpg",
+    "assets": [{
+        "base": "unls",
+        "symbol": "NOLUS",
+        "exponent": "6",
+        "logo": "/logos/nolus.jpg"
+    }]
+}

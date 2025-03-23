@@ -1,0 +1,18 @@
+{
+    "chain_name": "ATOMONE",
+    "coingecko": "atomone",
+    "api": ["https://testnet-atomone-api.konsortech.xyz"],
+    "rpc": ["https://testnet-atomone-rpc.konsortech.xyz"],
+    "sdk_version": "0.47.13",
+    "coin_type": "118",
+    "min_tx_fee": "200",
+    "addr_prefix": "atone",
+    "logo": "/logos/atomone.png",
+    "assets": [{
+        "base": "uatone",
+        "symbol": "ATONE",
+        "exponent": "6",
+        "coingecko_id": "atomone",
+        "logo": "/logos/atomone.png"
+    }]
+}

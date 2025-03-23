@@ -1,0 +1,16 @@
+{
+    "chain_name": "ARKEO",
+    "api": ["https://testnet-arkeo-api.konsortech.xyz"],
+    "rpc": ["https://testnet-arkeo-rpc.konsortech.xyz"],
+    "sdk_version": "0.50.8",
+    "coin_type": 118,
+    "min_tx_fee": 200,
+    "addr_prefix": "tarkeo",
+    "logo": "/logos/arkeo.jpg",
+    "assets": [{
+        "base": "uarkeo",
+        "symbol": "ARKEO",
+        "exponent": 8,
+        "logo": "/logos/arkeo.jpg"
+    }]
+}

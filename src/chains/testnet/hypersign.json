@@ -2,6 +2,7 @@
     "chain_name": "HYPERSIGN",
     "api": ["https://testnet-hypersign-api.konsortech.xyz/"],
     "rpc": ["https://testnet-hypersign-rpc.konsortech.xyz/"],
+    "sdk_version": "0.47.6",
     "coin_type": "118",
     "min_tx_fee": "250000",
     "addr_prefix": "hid",

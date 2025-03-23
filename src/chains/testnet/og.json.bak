@@ -1,0 +1,19 @@
+{
+    "chain_name": "OG",
+    "coingecko" : "",
+    "api": ["https://testnet-og-api.konsortech.xyz/"],
+    "rpc": ["https://testnet-og-rpc.konsortech.xyz/"],
+    "sdk_version": "0.47.5",
+    "coin_type": "118",
+    "min_tx_fee": "200",
+    "addr_prefix": "0g",
+    "logo": "/logos/og.jpg",
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "assets": [{
+        "base": "ua0gi",
+        "symbol": "A0GI",
+        "exponent": "6",
+        "coingecko_id" : "",
+        "logo": "/logos/og.jpg"
+    }]
+}

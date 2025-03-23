@@ -1,0 +1,19 @@
+{
+    "chain_name": "blockx",
+    "coingecko": "",
+    "api": ["https://testnet-blockx-api.konsortech.xyz/"],
+    "rpc": ["https://testnet-blockx-rpc.konsortech.xyz/"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.7",
+    "coin_type": "60",
+    "min_tx_fee": "5000000000000000",
+    "addr_prefix": "blockx",
+    "logo": "/logos/blockx.jpg",
+    "assets": [{
+        "base": "abcx",
+        "symbol": "BCX",
+        "exponent": "18",
+        "coingecko_id": "",
+        "logo": "/logos/blockx.jpg"
+    }]
+}

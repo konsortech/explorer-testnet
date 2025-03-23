@@ -1,0 +1,15 @@
+{
+    "chain_name": "GITOPIA",
+    "api": ["https://testnet-gitopia-api.konsortech.xyz"],
+    "rpc": ["https://testnet-gitopia-rpc.konsortech.xyz"],
+    "coin_type": "118",
+    "min_tx_fee": "200",
+    "addr_prefix": "UTLORE",
+    "logo": "/logos/gitopia.png",
+    "assets": [{
+        "base": "UTLORE",
+        "symbol": "TLORE",
+        "exponent": "6",
+        "logo": "/logos/gitopia.png"
+    }]
+}

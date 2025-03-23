@@ -1,0 +1,16 @@
+{
+    "chain_name": "DEFUND",
+    "api": ["https://testnet-defund-api.konsortech.xyz"],
+    "rpc": ["https://testnet-defund-rpc.konsortech.xyz"],
+    "sdk_version": "0.45.10-0.20221014225501-18eaf090ca1c",
+    "coin_type": "118",
+    "min_tx_fee": "200",
+    "addr_prefix": "defund",
+    "logo": "/logos/defund.png",
+    "assets": [{
+        "base": "ufetf",
+        "symbol": "FETF",
+        "exponent": "6",
+        "logo": "/logos/defund.png"
+    }]
+}

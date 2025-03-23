@@ -1,0 +1,18 @@
+{
+    "chain_name": "planq",
+    "api": ["https://rest-atlas.planq.network"],
+    "rpc": ["https://rpc-atlas.planq.network/"],
+    "sdk_version": "0.46.3",
+    "coin_type": "60",
+    "min_tx_fee": "5000000000000000",
+    "addr_prefix": "plq",
+    "logo": "/logos/planq.png",
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "assets": [{
+        "base": "atplanq",
+        "symbol": "tplanq",
+        "exponent": "18",
+        "coingecko_id": "planq",
+        "logo": "/logos/planq.png"
+    }]
+}

@@ -1,0 +1,16 @@
+{
+    "chain_name": "SELFCHAIN",
+    "api": ["https://dev-self-api.konsortech.xyz"],
+    "rpc": ["https://dev-self-rpc.konsortech.xyz"],
+    "sdk_version": "0.46.7",
+    "coin_type": "118",
+    "min_tx_fee": "200",
+    "addr_prefix": "self",
+    "logo": "/logos/selfchain.jpg",
+    "assets": [{
+        "base": "uself",
+        "symbol": "SELF",
+        "exponent": "6",
+        "logo": "/logos/selfchain.jpg"
+    }]
+}

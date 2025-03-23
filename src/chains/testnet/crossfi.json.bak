@@ -1,0 +1,19 @@
+{
+    "chain_name": "CROSSFI",
+    "coingecko" : "",
+    "api": ["https://testnet-crossfi-api.konsortech.xyz/"],
+    "rpc": ["https://testnet-crossfi-rpc.konsortech.xyz/"],
+    "sdk_version": "0.46.13",
+    "coin_type": "118",
+    "min_tx_fee": "200",
+    "addr_prefix": "mx",
+    "logo": "/logos/crossfi.jpg",
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "assets": [{
+        "base": "mpx",
+        "symbol": "MPX",
+        "exponent": "18",
+        "coingecko_id" : "",
+        "logo": "/logos/crossfi.jpg"
+    }]
+}

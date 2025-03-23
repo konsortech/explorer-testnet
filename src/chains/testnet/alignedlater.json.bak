@@ -1,0 +1,16 @@
+{
+    "chain_name": "ALIGNEDLAYER",
+    "api": ["https://testnet-alignedlayer-api.konsortech.xyz"],
+    "rpc": ["https://testnet-alignedlayer-rpc.konsortech.xyz"],
+    "sdk_version": "0.50.3",
+    "coin_type": 118,
+    "min_tx_fee": 200,
+    "addr_prefix": "aligned",
+    "logo": "/logos/alignedlayer.png",
+    "assets": [{
+        "base": "stake",
+        "symbol": "AL",
+        "exponent": 6,
+        "logo": "/logos/alignedlayer.png"
+    }]
+}

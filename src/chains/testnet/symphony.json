@@ -1,0 +1,16 @@
+{
+    "chain_name": "SYMPHONY",
+    "api": ["https://testnet-symphony-api.konsortech.xyz/"],
+    "rpc": ["https://testnet-symphony-rpc.konsortech.xyz/"],
+    "sdk_version": "0.47.8",
+    "coin_type": "118",
+    "min_tx_fee": "200",
+    "addr_prefix": "symphony",
+    "logo": "/logos/symphony.png",
+    "assets": [{
+        "base": "note",
+        "symbol": "MLD",
+        "exponent": "6",
+        "logo": "/logos/symphony.png"
+    }]
+}

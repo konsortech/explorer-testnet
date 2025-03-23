@@ -1,0 +1,18 @@
+{
+    "chain_name": "Noria",
+    "api":[ "https://testnet-noria-api.konsortech.xyz" ],
+    "rpc":[ "https://testnet-noria-rpc.konsortech.xyz" ],
+    "snapshot_provider": "",
+    "sdk_version": "0.47.2",
+    "coin_type": 118,
+    "min_tx_fee": "0",
+    "addr_prefix": "noria",
+    "logo": "/logos/noria.jpg",
+    "assets": [{
+        "base": "unoria",
+        "symbol": "NORIA",
+        "exponent": 6,
+        "coingecko_id": "",
+        "logo": "/logos/noria.jpg"
+    }]
+}

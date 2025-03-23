@@ -1,0 +1,16 @@
+{
+    "chain_name": "INITIA",
+    "api": ["https://testnet-initia-api.konsortech.xyz"],
+    "rpc": ["https://testnet-initia-rpc.konsortech.xyz"],
+    "sdk_version": "0.0.0-20240514173001-c037b6c44d98",
+    "coin_type": "118",
+    "min_tx_fee": "200",
+    "addr_prefix": "init",
+    "logo": "/logos/initia.jpg",
+    "assets": [{
+        "base": "uinit",
+        "symbol": "INIT",
+        "exponent": "6",
+        "logo": "/logos/initia.jpg"
+    }]
+}

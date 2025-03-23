@@ -1,0 +1,16 @@
+{
+    "chain_name": "MANTRA",
+    "api": ["https://testnet-mantra-api.konsortech.xyz"],
+    "rpc": ["https://testnet-mantra-rpc.konsortech.xyz"],
+    "sdk_version": "0.47.4",
+    "coin_type": "118",
+    "min_tx_fee": "200",
+    "addr_prefix": "mantra",
+    "logo": "/logos/mantra.jpg",
+    "assets": [{
+        "base": "uom",
+        "symbol": "OM",
+        "exponent": "6",
+        "logo": "/logos/mantra.jpg"
+    }]
+}

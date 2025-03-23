@@ -2,6 +2,7 @@
     "chain_name": "AURA-TESTNET",
     "api": ["https://testnet-aura-api.konsortech.xyz"],
     "rpc": ["https://testnet-aura-rpc.konsortech.xyz"],
+    "sdk_version": "0.47.5",
     "coin_type": 118,
     "min_tx_fee": 200,
     "addr_prefix": "aura",

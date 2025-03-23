@@ -1,0 +1,16 @@
+{
+    "chain_name": "EMPOWER",
+    "api": ["https://testnet-empower-api.konsortech.xyz"],
+    "rpc": ["https://testnet-empower-rpc.konsortech.xyz"],
+    "sdk_version": "v0.47.6",
+    "coin_type": "118",
+    "min_tx_fee": "200",
+    "addr_prefix": "empower",
+    "logo": "/logos/empower.png",
+    "assets": [{
+        "base": "umpwr",
+        "symbol": "MPWR",
+        "exponent": "6",
+        "logo": "/logos/empower.png"
+    }]
+}

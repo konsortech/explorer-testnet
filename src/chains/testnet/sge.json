@@ -1,0 +1,18 @@
+{
+    "chain_name": "SGE",
+    "coingecko" : "six-sigma",
+    "api": ["https://testnet-sge-api.konsortech.xyz"],
+    "rpc": ["https://testnet-sge-rpc.konsortech.xyz"],
+    "sdk_version": "0.46.16",
+    "coin_type": "118",
+    "min_tx_fee": "200",
+    "addr_prefix": "sge",
+    "logo": "/logos/sge.png",
+    "assets": [{
+        "base": "usge",
+        "symbol": "SGE",
+        "exponent": "6",
+        "coingecko_id": "six-sigma",
+        "logo": "/logos/sge.png"
+    }]
+}

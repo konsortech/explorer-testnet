@@ -1,0 +1,16 @@
+{
+    "chain_name": "SIDE",
+    "api": ["https://testnet-side-api.konsortech.xyz"],
+    "rpc": ["https://testnet-side-rpc.konsortech.xyz"],
+    "sdk_version": "0.47.9",
+    "coin_type": "118",
+    "min_tx_fee": "200",
+    "addr_prefix": "bc",
+    "logo": "/logos/side.jpg",
+    "assets": [{
+        "base": "uside",
+        "symbol": "SIDE",
+        "exponent": "6",
+        "logo": "/logos/side.jpg"
+    }]
+}

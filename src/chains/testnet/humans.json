@@ -1,17 +1,19 @@
 {
     "chain_name": "HUMANS",
+    "coingecko" : "humans-ai",
     "api": ["https://testnet-humans-api.konsortech.xyz/"],
     "rpc": ["https://testnet-humans-rpc.konsortech.xyz/"],
     "sdk_version": "0.46.11",
     "coin_type": "118",
     "min_tx_fee": "200",
-    "addr_prefix": "humans",
+    "addr_prefix": "human",
     "logo": "/logos/humans.png",
     "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
     "assets": [{
         "base": "aheart",
         "symbol": "HEART",
         "exponent": "18",
+        "coingecko_id" : "humans-ai",
         "logo": "/logos/humans.png"
     }]
 }

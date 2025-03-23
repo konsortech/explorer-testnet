@@ -1,0 +1,16 @@
+{
+    "chain_name": "WARDEN",
+    "api": ["https://testnet-warden-api.konsortech.xyz"],
+    "rpc": ["https://testnet-warden-rpc.konsortech.xyz"],
+    "sdk_version": "0.50.9",
+    "coin_type": 118,
+    "min_tx_fee": 200,
+    "addr_prefix": "warden",
+    "logo": "/logos/warden.png",
+    "assets": [{
+        "base": "award",
+        "symbol": "WARD",
+        "exponent": 18,
+        "logo": "/logos/warden.png"
+    }]
+}
