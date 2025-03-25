@@ -1,8 +1,8 @@
 {
     "chain_name": "SELFCHAIN",
-    "api": ["https://dev-self-api.konsortech.xyz"],
-    "rpc": ["https://dev-self-rpc.konsortech.xyz"],
-    "sdk_version": "0.46.7",
+    "api": ["https://rpc-testnet.selfchain.xyz:1317"],
+    "rpc": ["https://rpc-testnet.selfchain.xyz:26657"],
+    "sdk_version": "0.47.10",
     "coin_type": "118",
     "min_tx_fee": "200",
     "addr_prefix": "self",
