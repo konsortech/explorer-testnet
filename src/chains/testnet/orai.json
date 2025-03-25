@@ -1,0 +1,18 @@
+{
+    "chain_name": "Oraichain",
+    "api": ["https://testnet-v2.lcd.orai.io/"],
+    "rpc": ["https://testnet-v2.rpc.orai.io/"],
+    "snapshot_provider": "",
+    "sdk_version": "0.50.13",
+    "coin_type": "118",
+    "min_tx_fee": "3000",
+    "addr_prefix": "orai",
+    "logo": "/logos/orai.jpg",
+    "assets": [{
+        "base": "orai",
+        "symbol": "ORAI",
+        "exponent": "6",
+        "coingecko_id": "oraichain-token", 
+        "logo": "/logos/orai.jpg"
+    }]
+}
