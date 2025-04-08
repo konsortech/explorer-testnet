@@ -1,0 +1,19 @@
+{
+    "chain_name": "XRPLEVM",
+    "coingecko" : "",
+    "api": ["https://testnet-xrpl-api.konsortech.xyz/"],
+    "rpc": ["https://testnet-xrpl-rpc.konsortech.xyz/"],
+    "sdk_version": "0.50.13",
+    "coin_type": "118",
+    "min_tx_fee": "200",
+    "addr_prefix": "ethm",
+    "logo": "/logos/xrplevm.webp",
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "assets": [{
+        "base": "axrp",
+        "symbol": "poa",
+        "exponent": "18",
+        "coingecko_id" : "",
+        "logo": "/logos/xrplevm.webp"
+    }]
+}
